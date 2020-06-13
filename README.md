@@ -1,5 +1,6 @@
-# Pipefy Clone (front-end) 
-"for study purposes"
+# Pipefy Clone (ReactJS)
+
+> For study purposes
 
 ### Some used libs:
 
