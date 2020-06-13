@@ -1,5 +1,5 @@
 # Pipefy Clone (front-end) 
-"for studies propose"
+"for study purposes"
 
 ### Some used libs:
 
