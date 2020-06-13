@@ -1,68 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pipefy Clone (ReactJS)
 
-## Available Scripts
+> For study purposes
 
-In the project directory, you can run:
+### Some used libs:
 
-### `yarn start`
+* immer: to use immutable objects like mutable
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* react-dnd to use dragn in drop handlers
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+* react-dnd-html5-backend: to use browser drag in drop api 
 
-### `yarn test`
+* react-icons: to use material icons
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* styled-components: to style components like objects, using props
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Some features to work
+- [x] Create Header
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] Create Board
 
-### `yarn eject`
+- [x] Create Card
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [x] Make Card draggable
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [x] Make Card droppable
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [x] Move Card 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [x] Move Card when 50% above/below another card
 
-## Learn More
+- [ ] Create new card
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [ ] Create new list
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [ ] Create show card details
 
-### Code Splitting
+- [ ] Create show card details
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### Some bugs to work
+- [x] Card is changing another card with same index
 
-### Making a Progressive Web App
+- [x] Card is changing another list with same index
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- [x] Move card to another list
 
-### Advanced Configuration
+- [ ] Move card to blank list
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+#### Contact me
+[LinkedIn](https://www.linkedin.com/in/viniciusinaciopires/).
 
-### `yarn build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+I use *create-react-app* from (https://github.com/facebook/create-react-app).
