@@ -34,5 +34,4 @@
 - [ ] Move card to blank list
 
 
-
-For this project I used [create-react-app] from (https://github.com/facebook/create-react-app).
+I use *create-react-app* from (https://github.com/facebook/create-react-app).
