@@ -2,6 +2,8 @@
 
 > For study purposes
 
+![App preview](https://github.com/vinaciotm/pipefy-clone/blob/master/public/pipefy-clone.jpg?raw=true)
+
 ### Some used libs:
 
 * immer: to use immutable objects like mutable
