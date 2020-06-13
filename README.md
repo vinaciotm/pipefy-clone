@@ -33,5 +33,8 @@
 - [x] Move card to another list
 - [ ] Move card to blank list
 
+#### Contact me
+[LinkedIn](https://www.linkedin.com/in/viniciusinaciopires/).
+
 
 I use *create-react-app* from (https://github.com/facebook/create-react-app).
