@@ -5,7 +5,7 @@ import { Container } from "./styles";
 function Header() {
   return (
     <Container>
-      <h1>Pipefy Clone</h1>
+      <h1>Pipefy</h1>
     </Container>
   );
 }
