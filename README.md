@@ -1,16 +1,17 @@
-# Pipefy Clone (front-end)
+# Pipefy Clone (front-end) 
+"for studies propose"
 
-### I use some libs:
+### Some used libs:
 
--immer: to use immutable objects like mutable
+* immer: to use immutable objects like mutable
 
--react-dnd to use dragn in drop handlers
+* react-dnd to use dragn in drop handlers
 
--react-dnd-html5-backend: to use browser drag in drop api 
+* react-dnd-html5-backend: to use browser drag in drop api 
 
--react-icons: to use material icons
+* react-icons: to use material icons
 
--styled-components: to style components like objects, using props
+* styled-components: to style components like objects, using props
 
 ### Some features to work
 - [x] Create Header
