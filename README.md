@@ -1,7 +1,7 @@
 # Pipefy Clone (ReactJS)
 
 ### Demo:
-[App Preview](https://pipefy-vinaciotm.netlify.app/)
+[Open preview](https://pipefy-vinaciotm.netlify.app/)
 
 
 > For front-end study purposes
